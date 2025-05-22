@@ -37,7 +37,7 @@
 - Managing repositories and uploading files/screenshots on GitHub
 
 ## 🔗 GitHub Repository
-[👉 View Repo](https://github.com/your-username/day11-fullstack-)
+[👉 View Repo](https://github.com/SELVASTROM/day11-fullstack-)
 
 ---
 
